@@ -1,0 +1,7 @@
+gorras
+pantalon
+medias
+pantufla
+remera
+buzo
+jeans
